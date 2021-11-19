@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kittens-rolodex/static/css/main.5aea9c37.chunk.css",
+    "main.js": "/kittens-rolodex/static/js/main.6f637971.chunk.js",
+    "main.js.map": "/kittens-rolodex/static/js/main.6f637971.chunk.js.map",
+    "runtime-main.js": "/kittens-rolodex/static/js/runtime-main.481847a6.js",
+    "runtime-main.js.map": "/kittens-rolodex/static/js/runtime-main.481847a6.js.map",
+    "static/js/2.6e0da19f.chunk.js": "/kittens-rolodex/static/js/2.6e0da19f.chunk.js",
+    "static/js/2.6e0da19f.chunk.js.map": "/kittens-rolodex/static/js/2.6e0da19f.chunk.js.map",
+    "static/js/3.7fdaab2a.chunk.js": "/kittens-rolodex/static/js/3.7fdaab2a.chunk.js",
+    "static/js/3.7fdaab2a.chunk.js.map": "/kittens-rolodex/static/js/3.7fdaab2a.chunk.js.map",
+    "index.html": "/kittens-rolodex/index.html",
+    "static/css/main.5aea9c37.chunk.css.map": "/kittens-rolodex/static/css/main.5aea9c37.chunk.css.map",
+    "static/js/2.6e0da19f.chunk.js.LICENSE.txt": "/kittens-rolodex/static/js/2.6e0da19f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481847a6.js",
+    "static/js/2.6e0da19f.chunk.js",
+    "static/css/main.5aea9c37.chunk.css",
+    "static/js/main.6f637971.chunk.js"
+  ]
+}
